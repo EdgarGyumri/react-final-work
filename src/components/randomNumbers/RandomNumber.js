@@ -1,5 +1,4 @@
 export default function RandomNumber({number}) {
-    console.log(number);
     return (
         <div>
             <span>{number}</span>
